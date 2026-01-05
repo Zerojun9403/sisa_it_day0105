@@ -11,7 +11,8 @@ public class LoopTest {
 			System.out.println("월요일 이네요");
 		}
 		
-		for(int i=1; i<=5; i++) {
+		int j;
+		for(j=0; j<=5; j++) { 
 			System.out.println("맛점하세용");
 		}
 		
