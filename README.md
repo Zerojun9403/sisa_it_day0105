@@ -1,15 +1,14 @@
 # 🌿 Java Git Branch Practice
 
-Git 브랜치 전략을 이해하고 연습하기 위한  
 Java 기반 개인 학습 프로젝트입니다.
+
+반복문을 (for,while,do-while) 학습하는 프로젝트입니다.
 
 ---
 
 ## 🎯 목적
 
-- Git 브랜치 개념 이해
-- feature / develop / main 브랜치 실습
-- Java 코드 변경 흐름을 브랜치로 관리
+- 반복문을 (for,while,do-while) 학습
 
 ---
 
