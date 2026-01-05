@@ -40,3 +40,30 @@ java-study/
 │   └── SwitchTest.java
 
 
+## 🌿 Java Git ブランチ練習
+
+Javaを基盤とした個人学習プロジェクトです。
+
+繰り返し文（for、while、do-while）を学習するためのプロジェクトです。
+
+---
+
+## 🎯 目的
+
+- 繰り返し文（for、while、do-while）の学習
+
+---
+
+## 🛠 使用技術
+
+- Java
+- Git / GitHub
+- IntelliJ IDEA
+- Eclipse
+
+---
+
+## 📁 プロジェクト構成
+
+```text
+
