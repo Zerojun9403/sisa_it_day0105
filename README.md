@@ -23,3 +23,20 @@ Java 기반 개인 학습 프로젝트입니다.
 
 ## 📁 프로젝트 구조
 
+```text
+java-study/
+│
+├── README.md
+│
+├── day01/
+│   └── HelloTest.java
+│
+├── day02/
+│   ├── DataTypeTest.java
+│   └── VariableTest.java
+│
+├── day03/
+│   ├── IfTest.java
+│   └── SwitchTest.java
+
+
